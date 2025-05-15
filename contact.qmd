@@ -12,3 +12,5 @@ I am available to bring my extensive experience to bear on your needs in the fol
 
 
 My approach combines scientific rigor with practical application to drive meaningful change in early childhood systems.
+
+[<button type="button" class="btn btn-primary btn-lg">{{< fa regular paper-plane >}} Send me a message</button>](mailto:info@melanieberry.com)
