@@ -1,0 +1,35 @@
+---
+title: "Speaking Engagements"
+---
+
+:::{.lead}
+
+I am available for speaking engagements. Just send me an [email](mailto:info@melanieberry.com)!
+
+:::
+
+I have delivered presentations and workshops on topics such as:
+
+- The impact of early adversity on child development
+
+- Innovative measurement strategies in early childhood
+
+- Building resilience in young children through community-based programs
+
+I am well known for translating complex scientific concepts into practical strategies for practitioners and policymakers.
+
+
+:::{.column-page}
+
+### Prior speaking engagements
+
+| Date           | Event & Host | Title / Role | Engagement Type | Links |
+|----------------|-------------|----------------|------------------|----------|
+| **Apr 2023** | IDEAS Impact Framework Webinar – Center on the Developing Child | *Toolkit Walkthrough and Q&A* | Webinar presenter | [Webinar](https://youtu.be/3Sotdep6pbQ?t=287), [toolkit](https://ideas.developingchild.harvard.edu/), [podcast](https://developingchild.harvard.edu/resources/podcasts/the-brain-architects-ideas-framework-toolkit/) |
+| **Jun 2022** | NCSL Early Childhood Fellows Joint Convening – National Conference of State Legislatures | *How Early Experience Shapes Development* | Plenary speaker | [NCSL Presentation Slides (PDF)](https://documents.ncsl.org/wwwncsl/Human-Services/2022-Fellows-Joint-Plenary-M-Berry.pdf) |
+| **Nov 2017** | 5th Annual Community Social Pediatrics Symposium – Fondation Dr. Julien (Montreal, QC) | *Viewpoints and Actions on the Complexity of Vulnerable Children* | Conference speaker | [English video](https://www.youtube.com/watch?v=tIVZphxWuNU) · [French interpretation](https://www.youtube.com/watch?v=sMyA55_cqtc) |
+| **Apr 2017** | Frontiers of Innovation (FOI) Video Series – Harvard Center on the Developing Child | The IDEAS Impact Framework | Video explainer series | [Theory of Change](https://youtu.be/Y_GGaUE9I3I?t=22) · [Intervention Materials](https://www.youtube.com/watch?v=7RQX5oub6Mc) ·  [Evaluation](https://youtu.be/BIFsaOBti24?t=57) |
+| **Nov 2016** | Early Learning Conference Pre-K–3 – Oregon Department of Education & COSA | *Building a Foundation for Achievement: How Early Experiences Shape Brain Architecture* | Keynote speaker | [Conference program (PDF)](https://www.cosa.k12.or.us/sites/default/files/images/program_final_11-14-16.pdf) |
+| **Oct 2014** | AFWI Brain Story Symposium – Alberta Family Wellness Initiative | *Interventions for High Risk Children: The Bridge from Science to Action* | Invited presentation | [AFWI Talk Archive](https://www.albertafamilywellness.org/resources/video/interventions-for-high-risk-children-the-bridge-from-science-to-action) |
+
+

@@ -1,0 +1,28 @@
+---
+title: "Dr. Melanie R. Berry, PsyD"
+subtitle: "Clinical Psychologist | Early Childhood Innovator | Measurement Science Leader" 
+---
+
+![](th.jpeg){fig-alt='A picture of Melanie Berry, PsyD' style="border-radius: 50%; width: 250px; height: 250px; object-fit: cover" fig-align='center' }
+
+
+:::{.lead}
+
+I am a clinical psychologist with extensive experience in developing, implementing, and evaluating programs aimed at improving outcomes for young children facing adversity. I have led national initiatives that bring together community leaders, parents, healthcare providers, and scientists to pioneer new approaches in early childhood development.
+
+:::
+
+# Professional Journey
+
+I have been working for over a decade to improve the lives of kids and families in the following professional capacities:
+
+- Director of the Pediatric Innovation Initiative at the Center on the Developing Child at Harvard University. In this role, I led a national network focused on developing new methods to measure stress and resilience in young children.
+
+- Director of Innovation Strategies at the same center, where I provided strategic leadership in incubating promising new programs within the Frontiers of Innovation initiative and contributed to the development of the IDEAS Impact Framework.
+
+- Research Associate at the Stress Neurobiology and Prevention Research Laboratory at the University of Oregon, where I focused on the impact of early experiences on brain development.
+
+# Education
+
+I earned my Doctor of Psychology (PsyD) degree at the Stanford/PGSP Consortium in Palo Alto, CA, with a focus on early childhood development.
+

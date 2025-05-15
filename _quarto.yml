@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  title: "Melanie Berry, PsyD"
+  navbar:
+    background: primary
+    foreground: secondary
+    right:
+      - text: "{{< fa brands linkedin >}}"
+        href: "https://www.linkedin.com/in/melanie-berry-058472174/"
+      - text: "{{< fa regular paper-plane >}}"
+        href: "mailto:info@melanieberry.com"
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - speaking.qmd
+      - contact.qmd
+  page-footer: 
+    background: none
+    left: |
+          <!-- 100% privacy-first analytics -->
+          <script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+  
+format:
+  html:
+    theme: simplex
+    css: styles.css
+    toc: false
