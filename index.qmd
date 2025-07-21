@@ -1,6 +1,6 @@
 ---
 title: "Dr. Melanie R. Berry, PsyD"
-subtitle: "Clinical Psychologist | Early Childhood Innovator | Measurement Science Leader" 
+subtitle: "Clinical Psychologist | Early Childhood Innovator | Non-profit Leader" 
 ---
 
 ![](th.jpeg){fig-alt='A picture of Melanie Berry, PsyD' style="border-radius: 50%; width: 250px; height: 250px; object-fit: cover" fig-align='center' }
@@ -8,21 +8,22 @@ subtitle: "Clinical Psychologist | Early Childhood Innovator | Measurement Scien
 
 :::{.lead}
 
-I am a clinical psychologist with extensive experience in developing, implementing, and evaluating programs aimed at improving outcomes for young children facing adversity. I have led national initiatives that bring together community leaders, parents, healthcare providers, and scientists to pioneer new approaches in early childhood development.
+I am a clinical psychologist with extensive experience in developing, implementing, and evaluating programs aimed at improving outcomes for young children facing adversity. I have led national initiatives that bring together community leaders, parents, service providers, and scientists to pioneer new approaches in early childhood development.
 
 :::
 
-# Professional Journey
+# About
 
-I have been working for over a decade to improve the lives of kids and families in the following professional capacities:
+I’m a clinical psychologist by training with over 15 years of experience working to improve outcomes for children and families facing adversity. My career has spanned direct service, academic research, and nonprofit leadership—always with a focus on equity, science-based innovation, and meaningful impact.
+I began my career providing community-based services to children and families, then moved into applied research at the [Fisher Stress Neurobiology and Prevention Lab at the University of Oregon](https://snaplab.uoregon.edu/), where I helped develop and test innovative interventions grounded in developmental science. At the [Center on the Developing Child at Harvard](https://developingchild.harvard.edu/), I directed two major initiatives: one supporting early childhood innovators and the other focused on developing novel measures of stress and resilience in young children.
 
-- Director of the Pediatric Innovation Initiative at the Center on the Developing Child at Harvard University. In this role, I led a national network focused on developing new methods to measure stress and resilience in young children.
+I bring strengths in strategic planning, team leadership, cross-sector collaboration, and translating complex science into actionable guidance. I’m particularly skilled at building and stewarding partnerships, managing complex initiatives, and leading high-performing, mission-driven teams.
 
-- Director of Innovation Strategies at the same center, where I provided strategic leadership in incubating promising new programs within the Frontiers of Innovation initiative and contributed to the development of the IDEAS Impact Framework.
+I’m now seeking opportunities where I can apply these skills in nonprofit leadership or philanthropy—especially roles that support children and families, promote equity, and help translate knowledge into practice and systems-level change.
 
-- Research Associate at the Stress Neurobiology and Prevention Research Laboratory at the University of Oregon, where I focused on the impact of early experiences on brain development.
 
 # Education
 
-I earned my Doctor of Psychology (PsyD) degree at the Stanford/PGSP Consortium in Palo Alto, CA, with a focus on early childhood development.
+I hold a Doctor of Psychology (Psy.D.) from the PGSP–Stanford Psy.D. Consortium and a Bachelor of Arts in Psychology from the University of California, Berkeley.
+
 

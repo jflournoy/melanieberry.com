@@ -1,1 +1,20 @@
 /* css styles */
+body {
+  font-family: 'Figtree', sans-serif;
+}
+
+/* Use Figtree for all headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Inter', sans-serif;
+}
+
+.navbar-title {
+  font-family: 'Literata', serif;
+}
+
+h1 {
+  font-weight: 600;
+}
+h2, h3 {
+  font-weight: 500;
+}

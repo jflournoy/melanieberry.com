@@ -11,25 +11,31 @@ I am available for speaking engagements. Just send me an [email](mailto:info@mel
 I have delivered presentations and workshops on topics such as:
 
 - The impact of early adversity on child development
+- Early childhood program development, evaluation and improvement
+- Theory of Change
+- Fast Cycle Iteration 
+- Co-creation, collaborative innovation 
 
-- Innovative measurement strategies in early childhood
-
-- Building resilience in young children through community-based programs
 
 I am well known for translating complex scientific concepts into practical strategies for practitioners and policymakers.
 
-
 :::{.column-page}
 
-### Prior speaking engagements
 
-| Date           | Event & Host | Title / Role | Engagement Type | Links |
-|----------------|-------------|----------------|------------------|----------|
-| **Apr 2023** | IDEAS Impact Framework Webinar – Center on the Developing Child | *Toolkit Walkthrough and Q&A* | Webinar presenter | [Webinar](https://youtu.be/3Sotdep6pbQ?t=287), [toolkit](https://ideas.developingchild.harvard.edu/), [podcast](https://developingchild.harvard.edu/resources/podcasts/the-brain-architects-ideas-framework-toolkit/) |
-| **Jun 2022** | NCSL Early Childhood Fellows Joint Convening – National Conference of State Legislatures | *How Early Experience Shapes Development* | Plenary speaker | [NCSL Presentation Slides (PDF)](https://documents.ncsl.org/wwwncsl/Human-Services/2022-Fellows-Joint-Plenary-M-Berry.pdf) |
-| **Nov 2017** | 5th Annual Community Social Pediatrics Symposium – Fondation Dr. Julien (Montreal, QC) | *Viewpoints and Actions on the Complexity of Vulnerable Children* | Conference speaker | [English video](https://www.youtube.com/watch?v=tIVZphxWuNU) · [French interpretation](https://www.youtube.com/watch?v=sMyA55_cqtc) |
-| **Apr 2017** | Frontiers of Innovation (FOI) Video Series – Harvard Center on the Developing Child | The IDEAS Impact Framework | Video explainer series | [Theory of Change](https://youtu.be/Y_GGaUE9I3I?t=22) · [Intervention Materials](https://www.youtube.com/watch?v=7RQX5oub6Mc) ·  [Evaluation](https://youtu.be/BIFsaOBti24?t=57) |
-| **Nov 2016** | Early Learning Conference Pre-K–3 – Oregon Department of Education & COSA | *Building a Foundation for Achievement: How Early Experiences Shape Brain Architecture* | Keynote speaker | [Conference program (PDF)](https://www.cosa.k12.or.us/sites/default/files/images/program_final_11-14-16.pdf) |
-| **Oct 2014** | AFWI Brain Story Symposium – Alberta Family Wellness Initiative | *Interventions for High Risk Children: The Bridge from Science to Action* | Invited presentation | [AFWI Talk Archive](https://www.albertafamilywellness.org/resources/video/interventions-for-high-risk-children-the-bridge-from-science-to-action) |
+| Year       | Presentation Info                                                                                                                                                                                                                                        | Role                                               |
+|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
+| 2023       | [_The IDEAS Impact Framework Toolkit_](https://youtu.be/3Sotdep6pbQ?t=287), **Center on the Developing Child**                                                                                                                                           | Webinar Presenter                                  |
+| 2022       | _How Early Experience Shapes Development_, Early Childhood Fellows Convening, **National Conference of State Legislatures**                                                                                                                             | Invited Presentation                               |
+| <span style="white-space: nowrap;">2016&ndash;2021</span>  | [_Innovation in Action Trainings_](https://youtu.be/iC14yKXdeKU?si=RhnkLaaCj1lpcFW5), **Center on the Developing Child**                                                                                                                                 | Plenary Speaker, Workshop Facilitator              |
+| 2019       | _Toxic Stress and Child Homelessness: What Does Science Tell Us?_, Forum on Family Homelessness, **Administration for Children and Families**                                                                                                          | Invited Presentation                               |
+| 2018       | _Using Science to Fight Childhood Poverty_, Uniting Against Poverty, **Harvard Kennedy School**                                                                                                                                                        | Panelist                                           |
+| 2018       | _How Early Experiences Shape the Developing Brain_, **National Court Appointed Special Advocate (CASA) Conference**                                                                                                                                     | Keynote and Panelist                               |
+| 2018       | _The Latest in Trauma Research and Practice_, By All Means, **Harvard Graduate School of Education**                                                                                                                                                    | Invited Presentation                               |
+| 2017       | [_Viewpoints and Actions on the Complexity of Vulnerable Children_](https://www.youtube.com/watch?v=tIVZphxWuNU), Community Social Pediatrics Symposium, **Fondation Dr. Julien Canada**                                                                | Invited Presentation                               |
+| 2017       | _Beyond Best Practices: How Can Science Fuel Innovation in Early Childhood?_, Force for the Future Luncheon, **The Family Place**                                                                                                                       | Keynote                                            |
+| 2017       | [_The IDEAS Impact Framework_](https://youtu.be/Y_GGaUE9I3I?si=6m6PvpOd5A2tYqk2), IDEAS Framework Video Series, **Center on the Developing Child**                                                                                                      | Presenter                                          |
+| 2016       | _Building a Foundation for Achievement: How Early Experiences Shape Brain Architecture_, Early Learning Conference, **Oregon Dept. of Education & COSA**                                                                                               | Keynote                                            |
+| 2014       | [_Interventions for High-Risk Children: The Bridge from Science to Action_](https://www.albertafamilywellness.org/resources/video/interventions-for-high-risk-children-the-bridge-from-science-to-action), Brain Story Symposium, **Alberta Family Wellness Initiative** | Invited Presentation                               |
 
+: Select Speaking Engagements {.hover .responsive}
 

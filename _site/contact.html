@@ -68,6 +68,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&amp;family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&amp;family=Source+Sans+3:ital,wght@0,200..900;1,200..900&amp;display=swap" rel="stylesheet">
 
 
 <link rel="stylesheet" href="styles.css">
@@ -93,6 +96,10 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./cv.html"> 
+<span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./speaking.html"> 
@@ -146,13 +153,14 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>I am available to bring my extensive experience to bear on your needs in the following areas:</p>
+<p>I am available to provide training and consultation in the following areas:</p>
 <ul>
-<li><p>Development and evaluation of early childhood programs</p></li>
-<li><p>Implementation of measurement frameworks for assessing child development</p></li>
-<li><p>Strategic planning for organizations focused on early childhood innovation</p></li>
+<li>Early childhood program development, evaluation and improvement</li>
+<li>Co-ownership and collaborative innovation</li>
+<li>Fast cycle iteration</li>
+<li>Theory of Change</li>
+<li>Measuring child stress and resilience</li>
 </ul>
-<p>My approach combines scientific rigor with practical application to drive meaningful change in early childhood systems.</p>
 <p><a href="mailto:info@melanieberry.com"><button type="button" class="btn btn-primary btn-lg"><i class="fa-regular fa-paper-plane" aria-label="paper-plane"></i> Send me a message</button></a></p>
 
 
@@ -593,6 +601,16 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll('a[href^="http"]').forEach(function(link) {
+      if (!link.href.includes(window.location.hostname)) {
+        link.setAttribute('target', '_blank');
+        link.setAttribute('rel', 'noopener');
+      }
+    });
+  });
+</script>
 
 
 
