@@ -1,0 +1,29 @@
+---
+title: "Resume"
+---
+
+
+
+:::{style="height: 80vh" .d-none .d-md-block .p-3 .mb-4 .bg-light .border .rounded .shadow-sm}
+
+<embed 
+    src="https://docs.google.com/document/d/1WeI72SiyNp_OiP2el9CUsUa_Vb8Kt08MCtDMl-H0vRk/preview"
+    type="application/pdf" 
+    style="width:100%; height:100%; border:none" 
+/>
+
+:::
+
+:::{.column-margin .d-none .d-md-block}
+
+<a class="btn btn-outline-primary" href="https://docs.google.com/document/d/1WeI72SiyNp_OiP2el9CUsUa_Vb8Kt08MCtDMl-H0vRk/export?format=pdf">Download Resume (PDF)</a>
+
+:::
+
+:::{.d-block .d-md-none .text-center .mb-4}
+
+<p>This document is best viewed on a larger screen.</p>
+
+<a class="btn btn-outline-primary" href="https://docs.google.com/document/d/1WeI72SiyNp_OiP2el9CUsUa_Vb8Kt08MCtDMl-H0vRk/export?format=pdf">Download Resume (PDF)</a>
+
+:::

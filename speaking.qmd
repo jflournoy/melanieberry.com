@@ -39,3 +39,4 @@ I am well known for translating complex scientific concepts into practical strat
 
 : Select Speaking Engagements {.hover .responsive}
 
+:::
